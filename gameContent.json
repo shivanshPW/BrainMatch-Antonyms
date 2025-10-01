@@ -31,8 +31,8 @@
           { "a": "Ample", "b": "Rare" },
           { "a": "Good", "b": "Evil" },
           { "a": "Rigid", "b": "Flexible" },
-          { "a": "Complex", "b": "Simple" },
-          { "a": "Harmony", "b": "Discord" },
+          { "a": "Soft", "b": "Firm" },
+          { "a": "Acid", "b": "Base" },
           { "a": "Advance", "b": "Retreat" },
           { "a": "Rich", "b": "Poor" },
           { "a": "Real", "b": "Fake" }
